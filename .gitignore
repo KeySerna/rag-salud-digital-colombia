@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Base de datos vectorial local (se puede regenerar corriendo el notebook)
+chroma_salud_digital_db/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

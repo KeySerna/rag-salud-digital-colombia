@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+python-dotenv
+jupyter
+certifi
